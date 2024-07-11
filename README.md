@@ -26,7 +26,7 @@ Control data has length 179, 56% of which is ham
 3. MNEM have a slight advantage in terms of accuracy compared to MVBEM
 4. Both models had 99% accuracy using the Training Dataset
 5. Both models have 60-65% accuracy using the Control Dataset 
-6. Both models have a hard time classifying Spam Emails. This may be due to the fact that ham emails are low compared to sham emails. 
+6. Both models have a hard time classifying Spam Emails. This may be due to the fact that spam emails are low compared to ham emails. 
 7. MNEM is better at classifying Spam Emails 
 8. MVBEM is better at classifying Ham Emails
 9. MNEM is generally better than MVBEM
