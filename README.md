@@ -43,6 +43,8 @@ Control data has length 179, 56% of which is ham
    -Special Characters
    
    -Links
+
+   -Relationship of words with each other (Word Embeddings)
    
 4. Both method uses binary classification. Maybe generalize the methods to multi-class ? 
 5. Both methods does not take into account the position of words in the text. Try a new model which delves into this and compare whether   there is a significant difference in accuracy. 
